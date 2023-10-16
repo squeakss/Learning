@@ -1,9 +1,9 @@
 #x = 1
 #y = 2.5 
-#name = "John"
+#name = ""
 #is_cool = True 
 
-x, y, name, is_cool = (1, 2.5, 'John', True)
+x, y, name, is_cool = (1, 2.5, '', True)
 
 a= x + y
 
