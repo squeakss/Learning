@@ -32,12 +32,12 @@ class customer(User):
         return f'my name is {self.name} and i am {self.age} and my balance is {self.balance}'    
         
 #initialize user object
-brad = User('brad traversy', 'brad@gmail.com', 37)
+b = User('', '', )
 #initiate customer object
-john = customer('john', 'john@john.com', 25)
+n = customer('', '', )
 
-john.set_balance(500)
-print(john.greeting())
+n.set_balance(500)
+print(n.greeting())
 
-brad.has_birthday()
-print(brad.greeting())
+b.has_birthday()
+print(b.greeting())
