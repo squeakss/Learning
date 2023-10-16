@@ -6,20 +6,20 @@ fruits = ['apples', 'oranges', 'grapes', 'pears']
 
 #print(len(fruits))
 
-fruits.append('mangos')
+#fruits.append('mangos')
 
-fruits.remove('grapes')
+#fruits.remove('grapes')
 
-fruits.insert(2, 'strawberries')
+#fruits.insert(2, 'strawberries')
 
-fruits.pop(2)
+#fruits.pop(2)
 
-fruits.reverse()
+#fruits.reverse()
 
-fruits.sort()
+#fruits.sort()
 
-fruits.sort(reverse=True)
+#fruits.sort(reverse=True)
 
-fruits[0] = 'blueberries'
+#fruits[0] = 'blueberries'
 
 print(fruits)
