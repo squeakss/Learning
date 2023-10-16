@@ -1,5 +1,5 @@
-name = 'John'
-age = 37
+name = ''
+age = 
 
 
 #print("Hello, my name is " + name + "and I am " + str(age))
